@@ -1,6 +1,12 @@
 {
-  "name": "NFTSMS.io",
+  "name": "NFTSMS.io message",
   "symbol": "NFTSMS",
   "description": "NFTSMS.io - safe and secure messages",
-  "image": "https://raw.githubusercontent.com/tr0n-xD/crypto-logos/master/nftsms-500.png"
+  "image": "https://raw.githubusercontent.com/tr0n-xD/crypto-logos/master/nftsms-500.png",
+  "tags": [
+    "utility-token"
+  ],
+  "extensions": {
+    "website": "https://nftsms.io"
+  }
 }
